@@ -1,6 +1,6 @@
 <h2 align="center">My Info <a href="www.facebook.com/minzquan">Minzquanシ</a> ❤</h1>
 <img align="center" src="./info.svg"/>
-<img/>
+<img align="right" src="./love.jpg"/>
 -   🌸 My name is Hà Minh Quân.
 -   ❤️‍🔥 14/12/2007
 -   💬 My nickname is Minzquan
