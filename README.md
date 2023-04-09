@@ -3,7 +3,7 @@
 <img src="./info.svg"/>
 </div>
 <div>
-<img align="right" src="./love.jpg" width="50%" height="auto"/>
+<img align="right" boder-box="0" src="./love.jpg" width="40%" height="auto"/>
 -   🌸 My name is Hà Minh Quân.</br>
 -   ❤️‍🔥 14/12/2007.</br> 
 -   💬 My nickname is Minzquan.</br> 
