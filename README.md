@@ -1,4 +1,4 @@
-<h2 align="center">My Info <a href="www.facebook.com/minzquan">Minzquanシ</a> ❤</h1>
+<h2>My Info <a href="www.facebook.com/minzquan">Minzquanシ</a> ❤</h1>
 <img align="center" src="./info.svg"/>
 <img align="right" src="./love.jpg" width="40%" height="auto"/>
 
