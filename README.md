@@ -5,7 +5,5 @@
 
 -   🌸 My name is Hà Minh Quân.</br>
 -   ❤️‍🔥 14/12/2007.</br> 
--   💬 My nickname is Minzquan.</br> 
--   💬 My rela is Rosie (Vũ Thị Nhàn).</br> 
--   💓 Relationship: Hẹn hò.</br> 
+-   💬 My nickname is Minzquan.</br>
 -   🌹 Profile: 
